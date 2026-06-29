@@ -1,5 +1,0 @@
-matplotlib
-datetime
-sqlite3
-pandas
-streamlit
